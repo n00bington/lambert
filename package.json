@@ -1,14 +1,14 @@
 {
-  "name": "lambert",
-  "version": "1.0.0",
-  "description": "Logger running in a child process.",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name"        : "lambert",
+  "version"     : "1.0.0",
+  "description" : "Logger running in a child process.",
+  "main"        : "src/index.js",
+  "scripts"     : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "CC0",
-  "dependencies": {
-    "chalk": "^2.4.1"
+  "author"       : "n71",
+  "license"      : "CC0-1.0",
+  "dependencies" : {
+    "chalk" : "^2.4.1"
   }
 }
